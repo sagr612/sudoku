@@ -10,6 +10,9 @@ Program description :------
     I have used simple backtracking approach for this program.
 
     Any one with  g++ complier and a text editor  can run this program.
+    Create two text files :- input.txt and output.txt.
+    input.txt :- enter the input in this file.
+    output.txt :- stores the output.
 
 Approach :---
 
